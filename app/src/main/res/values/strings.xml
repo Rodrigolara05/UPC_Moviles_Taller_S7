@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyUpcChat</string>
+    <string name="chat_subtitle">Tu asistente con Gemini</string>
+    <string name="new_chat">Nuevo chat</string>
+    <string name="missing_key">Configura GEMINI_API_KEY en local.properties, sincroniza Gradle y vuelve a ejecutar la app para comenzar.</string>
+    <string name="welcome_title">¿Qué vamos a descubrir?</string>
+    <string name="welcome_body">Pregunta, crea y explora ideas. Puedes empezar con una de estas sugerencias.</string>
+    <string name="suggestion_one">Explícame algo difícil con un ejemplo sencillo</string>
+    <string name="suggestion_two">Ayúdame a organizar una semana de estudio</string>
+    <string name="suggestion_three">Escribe una historia breve sobre un robot curioso</string>
+    <string name="thinking">Gemini está pensando…</string>
+    <string name="retry">Reintentar</string>
+    <string name="message_placeholder">Escribe tu mensaje…</string>
+    <string name="send">Enviar</string>
+    <string name="ai_notice">La IA puede equivocarse. Comprueba la información importante.</string>
+    <string name="you">Tú</string>
+    <string name="assistant">Gemini</string>
+</resources>

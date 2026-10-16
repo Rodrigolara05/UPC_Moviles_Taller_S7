@@ -1,0 +1,4 @@
+# Conserva el sdk.dir que Android Studio genera en tu local.properties.
+# TODO(TALLER): copia estas entradas a local.properties, sin comillas.
+GEMINI_API_KEY=
+GEMINI_MODEL=gemini-3.5-flash-lite
